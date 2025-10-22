@@ -45,7 +45,7 @@ keywords = [
  "movie star rivalries", 
  "celebrity beef explained", 
  "top actors exposed", 
-"Actors who hated each other" + sorted by most viewed
+"Actors who hated each other" + sorted by most viewed,
  "Hollywood feuds explained", 
  "Top 10 Hollywood conflicts", 
  "Old Hollywood drama documentary", 
