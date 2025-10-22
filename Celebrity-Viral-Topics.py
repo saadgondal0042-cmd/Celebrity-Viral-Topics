@@ -16,26 +16,12 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "TOP 7 Actors Hollywood Can’t Forgive!",
-"TOP 7 Actors Hollywood Secretly Hates!",
-"TOP 7 Actors Hollywood Will Never Work With Again!",
-"TOP 7 Actors Who Ruined Their Hollywood Careers!",
-"TOP 7 Actors Hollywood Turned Against!",
-"TOP 7 Actors Hollywood Wants to Forget!",
-"TOP 7 Actors Who Destroyed Their Own Careers!",
-"TOP 7 Actors Hollywood Doesn’t Trust Anymore!",
-"TOP 7 Actors Who Were Blacklisted From Hollywood!",
-"TOP 7 Actors Who Made Enemies In Hollywood!",
-"TOP 7 Actors Hollywood Refused To Forgive!",
-"TOP 7 Actors Who Lost Everything In Hollywood!",
-"TOP 7 Actors Hollywood Will Never Forgive!",
-"TOP 7 Actors Who Crossed The Line In Hollywood!",
-"TOP 7 Actors Hollywood Regrets Hiring!",
-"TOP 7 Actors Who Got Banned From Hollywood!",
-"TOP 7 Actors Who Ruined Their Reputation!",
-"TOP 7 Actors Hollywood Can’t Stand!",
-"TOP 7 Actors Who Fell From Grace In Hollywood!",
-"TOP 7 Actors Hollywood Completely Abandoned!"
+ "TOP 7 Actors Hated the Most",
+  "TOP 5 Actors Hated the Most",
+ "TOP 6 Actors Hated the Most",
+ "Names The Seven Actors He Hated Most",
+ "Hated the Most",
+ "TOP 7 Actors "
 ]
 
 # Fetch Data Button
